@@ -29,3 +29,7 @@ Python web scraping project that collects book price data from a website and aut
 ## Preview
 
 ![Book Price Chart](book_price_chart.png)
+
+# Author
+
+JG Automation & Data
